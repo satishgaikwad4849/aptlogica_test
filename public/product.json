@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "reprehenderit est deserunt",
+    "description": "aut porro officiis laborum odit ea laudantium corporis porro iure quia iusto qui i",
+    "image": "https://via.placeholder.com/600/92c952",
+    "price": 300,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "officia porro iure ",
+    "description": "aspernatur aut odit aut fugit",
+    "image": "https://via.placeholder.com/600/771796",
+    "price": 500,
+    "inStock": false   
+  },
+  {
+    "id": 3,
+    "title": "beatae et provident",
+    "description":"officia delectus consequatur vero aut veniam explicabo molestias",
+    "image": "https://via.placeholder.com/600/24f355",
+    "price": 400,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "title": "officia delectus ",
+    "description":"sed quia consequuntur magni dolores ",
+    "image": "https://via.placeholder.com/600/d32776",
+    "price": 320,
+    "inStock": false
+  },
+
+  {
+    "id": 5,
+    "title": "qui eius qui ",
+    "description":"eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est",
+    "image": "https://via.placeholder.com/600/f66b97",
+    "price": 130,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "title": "aut porro officiis ",
+    "description": "qui dolorem ipsum quia dolor sit amet",
+    "image": "https://via.placeholder.com/600/56a8c2",
+    "price": 750,
+    "inStock": true
+  },
+
+  {
+    "id": 7,
+    "title": "culpa odio esse rerum ",
+    "description": "consectetu adipisci velit sed quia non numquam eius modi tempora",
+    "image": "https://via.placeholder.com/600/b0f7cc",
+    "price": 460,
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "title": "natus nisi omnis ",
+    "description": " incidunt ut labore et dolore magnam aliquam quaerat ",
+    "image": "https://via.placeholder.com/600/54176f",
+    "price": 670,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "title": "perferendis nesciunt ",
+    "description":"voluptatem. Ut enim ad minima veniam",
+    "image": "https://via.placeholder.com/600/51aa97",
+    "price": 890,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "title": "accusamus ea aliquid ",
+    "description": "quis nostrum exercitationem ullam corporis suscipit",
+    "image": "https://via.placeholder.com/600/810b14",
+    "price": 210,
+    "inStock": true
+  }
+  ]
